@@ -1,0 +1,22 @@
+#container {
+  text-align: center;
+}
+
+#board {
+  border: 5px solid rgb(78, 6, 111);
+}
+
+#scoreElement {
+  font-family: Arial, cursive, sans-serif;
+  font-size: 50px;
+}
+
+#againButton {
+  font-family: Arial, cursive, sans-serif;
+  font-size: 20px;
+  width: 150px;
+  height: 50px;
+  border: 2px solid;
+  border-radius: 20px;
+  cursor: pointer;
+}
